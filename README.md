@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunisensei92&label=Profile%20views&color=0e75b6&style=flat" alt="kunisensei92" /> </p>
 
-- 🔭 I’m currently working on [Modeltown] www.jp.modeltown.world
+- 🔭 I’m currently working on Modeltown www.jp.modeltown.world
 
 - 🌱 I’m currently learning **Vue.js, JavaScript, Node.js**
 
