@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.js, JavaScript, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kunisensei92](https://github.com/kunisensei92)
+- 👨‍💻 All of my projects are available at [https://github.com/kunisensei92](https://github.com/kunisensei92?tab=repositories)
 
 - 💬 Ask me about **Vue.js**
 
