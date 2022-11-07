@@ -26,6 +26,4 @@
 
 <p><img align="center" src="https://www.codewars.com/users/kunisensei92/badges/large" alt="Codewars lvl"></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunisensei92&show_icons=true&locale=en&layout=compact" alt="kunisensei92" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunisensei92&" alt="kunisensei92" /></p>
