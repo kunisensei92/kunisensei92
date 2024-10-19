@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mariosensei92@gmail.com**
 
-- ⚡ Fun fact **I'm not really into that sh1t**
+- ⚡ Fun fact about me: **I'm not really into that sh1t. F-ck programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +29,4 @@
 <p><img align="center" src="https://www.codewars.com/users/kunisensei92/badges/large" alt="Codewars lvl"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunisensei92&" alt="kunisensei92" /></p>
+
