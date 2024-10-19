@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunisensei92&label=Profile%20views&color=0e75b6&style=flat" alt="kunisensei92" /> </p>
 
-- 🔭 I’m currently working on <a href="https://jpn001.modeltown.world/play/">Modeltown</a>
+- 🔭 I’m currently working on <a href="https://jpn001.modeltown.world/play">drrrumm.ing</a>
 
-- 🌱 I’m currently learning **Vue.js, Nuxt.js, Solidity**
+- 🌱 I’m currently learning **React.js, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kunisensei92](https://github.com/kunisensei92?tab=repositories)
 
-- 💬 Ask me about **Vue.js**
+- 💬 Ask me about **My life choices**
 
 - 📫 How to reach me **mariosensei92@gmail.com**
 
-- ⚡ Fun fact **If you stacked every elephant in the whole world on top of each other, they wouldnt like it**
+- ⚡ Fun fact **I'm not really into that sh1t**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
