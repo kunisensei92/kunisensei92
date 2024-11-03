@@ -12,9 +12,7 @@
 - 💬 Ask me about **My life choices**
 
 - 📫 How to reach me **mariosensei92@gmail.com**
-
-- ⚡ Fun fact about me: **I'm not really into that sh1t. F-ck programming**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kunisensei92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kunisensei92" height="30" width="40" /></a>
