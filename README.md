@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kunisensei92](https://github.com/kunisensei92?tab=repositories)
 
-- 💬 Ask me about **My life choices**
-
 - 📫 How to reach me **mariosensei92@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
